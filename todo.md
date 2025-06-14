@@ -1,6 +1,7 @@
 # Tópicos de hoje
 
 - [ ] Intro (slides)
+- [ ] Criar projeto + importar materiais
 - [ ] Interface
 - [ ] Variáveis
 - [ ] Funções
